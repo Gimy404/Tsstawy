@@ -1,0 +1,6 @@
+﻿# تعليمات محركات البحث لموقع محمد جمال (Robots.txt)
+User-agent: *
+Allow: /
+
+# رابط خريطة الموقع لتسهيل أرشفة صفحات الخدمات
+Sitemap: https://gimy404.github.io/Tsstawy/sitemap.xml

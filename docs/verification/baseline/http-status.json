@@ -1,0 +1,19 @@
+﻿{
+  "timestamp": "2026-09-11T06:56:00Z",
+  "environment": "Live GitHub Pages (https://gimy404.github.io/Tsstawy/)",
+  "pages": [
+    { "page": "index.html", "status": 200, "url": "https://gimy404.github.io/Tsstawy/index.html" },
+    { "page": "branding.html", "status": 200, "url": "https://gimy404.github.io/Tsstawy/branding.html" },
+    { "page": "content-writing.html", "status": 200, "url": "https://gimy404.github.io/Tsstawy/content-writing.html" },
+    { "page": "influencers.html", "status": 200, "url": "https://gimy404.github.io/Tsstawy/influencers.html" },
+    { "page": "mystery-shopper.html", "status": 200, "url": "https://gimy404.github.io/Tsstawy/mystery-shopper.html" },
+    { "page": "SEM.html", "status": 200, "url": "https://gimy404.github.io/Tsstawy/SEM.html" },
+    { "page": "social-media-management.html", "status": 200, "url": "https://gimy404.github.io/Tsstawy/social-media-management.html" },
+    { "page": "website-design.html", "status": 200, "url": "https://gimy404.github.io/Tsstawy/website-design.html" }
+  ],
+  "known_errors": [
+    { "resource": "styles.css", "status": 404, "url": "https://gimy404.github.io/Tsstawy/styles.css", "issue": "Referenced in index.html line 3 but file is missing" },
+    { "resource": "Caldera Forms Submission", "status": "Failed (CORS / Stale Nonce)", "url": "https://muradmurad.com/cf-api/CF5c59ecfb6e521", "issue": "Contact form fails to submit to external server" },
+    { "resource": "External CSS Assets", "status": 200, "url": "https://muradmurad.com/wp-content/cache/...", "issue": "External hotlinked dependencies" }
+  ]
+}
