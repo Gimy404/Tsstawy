@@ -1,0 +1,42 @@
+﻿/**
+ * الملف ده مخصص للتنسيقات الإضافية والتحسينات المخصصة للموقع (Custom Styles).
+ * الغرض منه: تحسين تجربة المستخدم البصرية، وضبط التمرير السلس، وتنسيق أزرار التواصل المباشر.
+ * بيعتمد عليه: كل صفحات الموقع (index.html وباقي صفحات الخدمات).
+ */
+
+/* تفعيل التمرير السلس عند الضغط على روابط الأقسام في القائمة العلوية */
+html {
+    scroll-behavior: smooth;
+}
+
+/* تحسين مظهر روابط القائمة العلوية عند تمرير الماوس */
+.elementor-icon-list-item:hover {
+    transition: all 0.3s ease-in-out;
+}
+
+/* تنسيق زر التواصل عبر واتساب ليكون واضحاً وجذاباً للعميل */
+.whatsapp-direct-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background-color: #25D366;
+    color: #ffffff !important;
+    font-weight: 600;
+    padding: 12px 24px;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.whatsapp-direct-btn:hover {
+    background-color: #128C7E;
+    transform: scale(1.05);
+}
+
+/* معالجة أي تداخل أو تجاوز للنصوص في الشاشات الصغيرة للموبايل */
+@media (max-width: 768px) {
+    .elementor-heading-title {
+        word-wrap: break-word;
+    }
+}
