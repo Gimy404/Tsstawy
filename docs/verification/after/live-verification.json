@@ -1,0 +1,57 @@
+﻿[
+    {
+        "Resource":  "index.html",
+        "Status":  200,
+        "LiveUrl":  "https://gimy404.github.io/Tsstawy/index.html"
+    },
+    {
+        "Resource":  "branding.html",
+        "Status":  200,
+        "LiveUrl":  "https://gimy404.github.io/Tsstawy/branding.html"
+    },
+    {
+        "Resource":  "content-writing.html",
+        "Status":  200,
+        "LiveUrl":  "https://gimy404.github.io/Tsstawy/content-writing.html"
+    },
+    {
+        "Resource":  "influencers.html",
+        "Status":  200,
+        "LiveUrl":  "https://gimy404.github.io/Tsstawy/influencers.html"
+    },
+    {
+        "Resource":  "mystery-shopper.html",
+        "Status":  200,
+        "LiveUrl":  "https://gimy404.github.io/Tsstawy/mystery-shopper.html"
+    },
+    {
+        "Resource":  "SEM.html",
+        "Status":  200,
+        "LiveUrl":  "https://gimy404.github.io/Tsstawy/SEM.html"
+    },
+    {
+        "Resource":  "social-media-management.html",
+        "Status":  200,
+        "LiveUrl":  "https://gimy404.github.io/Tsstawy/social-media-management.html"
+    },
+    {
+        "Resource":  "website-design.html",
+        "Status":  200,
+        "LiveUrl":  "https://gimy404.github.io/Tsstawy/website-design.html"
+    },
+    {
+        "Resource":  "styles.css",
+        "Status":  200,
+        "LiveUrl":  "https://gimy404.github.io/Tsstawy/styles.css"
+    },
+    {
+        "Resource":  "robots.txt",
+        "Status":  200,
+        "LiveUrl":  "https://gimy404.github.io/Tsstawy/robots.txt"
+    },
+    {
+        "Resource":  "sitemap.xml",
+        "Status":  200,
+        "LiveUrl":  "https://gimy404.github.io/Tsstawy/sitemap.xml"
+    }
+]
